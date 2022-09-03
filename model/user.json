@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Imran Hossain",
+        "gender": "male",
+        "contact": "01521431802",
+        "address": "Ginnheimer Landstrasse 42",
+        "photoUrl": "https://i.ibb.co/KWdJ96w/AIUB-CS-PROM-14-1-153-of-914.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tom Cruise",
+        "gender": "male",
+        "contact": "0189794654645",
+        "address": "Ginnheimer Landstrasse 42",
+        "photoUrl": "https://www.ndr.de/kultur/film/tomcruise130_v-quadratl.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tom Hanks",
+        "gender": "male",
+        "contact": "0165456416544",
+        "address": "Ginnheimer Landstrasse 42",
+        "photoUrl": "https://i.guim.co.uk/img/media/a7228e0738d1c8264fb564cb97180bff4b6002c6/0_45_3739_2244/master/3739.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=d076062a4452ffcfae4e5caf4a77064c"
+    },
+    {
+        "id": 4,
+        "name": "Will Smith",
+        "gender": "male",
+        "contact": "011654156415",
+        "address": "Washington DC",
+        "photoUrl": "https://m.media-amazon.com/images/M/MV5BMGI3OTI0NjctMjM2ZC00MjZiLWIxMjctODczN2M4MTFjZmY1XkEyXkFqcGdeQXJoYW5uYWg@._V1_UX477_CR0,0,477,268_AL_.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Leonardo DiCaprio",
+        "gender": "male",
+        "contact": "01156141564564",
+        "address": "USA",
+        "photoUrl": "https://image.gala.de/22585264/t/EM/v5/w960/r0.6667/-/leonardo-dicaprio-oscars.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Michael Fassbender",
+        "gender": "male",
+        "contact": "01521431802",
+        "address": "Ginnheimer Landstrasse 42",
+        "photoUrl": "https://images.mubicdn.net/images/cast_member/4867/cache-3020-1604741461/image-w856.jpg?size=800x"
+    },
+    {
+        "id": 7,
+        "name": "Johnny Depp",
+        "gender": "male",
+        "contact": "0115645611556",
+        "address": "Ginnheimer Landstrasse 42",
+        "photoUrl": "https://i0.web.de/image/550/36636550,pd=1,f=size-l/johnny-depp.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Scarlett Johansson",
+        "gender": "female",
+        "contact": "0154874856112",
+        "address": "British",
+        "photoUrl": "https://i0.web.de/image/792/36015792,pd=1,f=size-l/scarlett-johansson.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chris Evans",
+        "gender": "male",
+        "contact": "015645641561",
+        "address": "Ginnheimer Landstrasse 42",
+        "photoUrl": "https://images.wunderweib.de/chris-evans-ich-mag-zaertliche-frauen,id=72b6ce6d,b=wunderweib,w=1600,rm=sk.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Brad Pitt",
+        "gender": "male",
+        "contact": "01456416515",
+        "address": "Ginnheimer Landstrasse 42",
+        "photoUrl": "https://images.mubicdn.net/images/cast_member/2552/cache-207-1524922850/image-w856.jpg?size=800x"
+    },
+    {
+        "id": 11,
+        "name": "Charlie Chaplin",
+        "gender": "male",
+        "contact": "017895541456",
+        "address": "Ginnheimer Landstrasse 42",
+        "photoUrl": "https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_UY1200_CR73,0,630,1200_AL_.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Matt Damon",
+        "gender": "male",
+        "contact": "01521431802",
+        "address": "Ginnheimer Landstrasse 42",
+        "photoUrl": "https://static.wikia.nocookie.net/moviepedia/images/7/77/Matt_Damon.jpg/revision/latest/top-crop/width/360/height/450?cb=20141111220737&path-prefix=de"
+    }
+]
